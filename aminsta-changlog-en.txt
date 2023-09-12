@@ -1,19 +1,11 @@
-Changelog for V3
+Changelog for V4
 
- > [Update Base] 278.0.0.21.117
- > [Exclusive] You can take a screenshot without the knowledge of the other party.
- > [Exclusively] You can re-watch any image without the knowledge of the other party
- > [Exclusive] You can hide that you have listened to the audio clip
- > [Add] All the new Instagram features
- > [Add] French language
- > [Add] Spanish language
- > [Add] Urdu language
- > [Add] Persian language
- > [Add] Indonesian language
- > [Add] Hindi language
- > [Add] Italian language
- > [Add] the Russian language
- > [Add] German language
- > [Fix] The problem of crashing when uploading images in the conversation
- > [Fix] All crashing issues
- > [More] Fixes and improvements, discover it yourself
+  🎲[Base update] 292.0.0.31.110
+⭐ [Exclusive] Added Show Deleted Messages
+⭐ [Added] Roll call
+ ⭐[Added] Stickers
+ ⭐Added] Quick reply
+⭐ [Added] Voice message, press and hold to record
+ ⭐[Added] Share shop products
+🎲 [Fixed] Problem of the disappearance call button in the conversation
+🎲 [Fixed] Many Random Crash
