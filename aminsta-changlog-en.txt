@@ -1,11 +1,4 @@
-Changelog for V4
+Changelog for version V5
 
-  🎲[Base update] 292.0.0.31.110
-⭐ [Exclusive] Added Show Deleted Messages
-⭐ [Added] Roll call
- ⭐[Added] Stickers
- ⭐Added] Quick reply
-⭐ [Added] Voice message, press and hold to record
- ⭐[Added] Share shop products
-🎲 [Fixed] Problem of the disappearance call button in the conversation
-🎲 [Fixed] Many Random Crash
+
+ [♻️Fix♻️] Not logging in problem
