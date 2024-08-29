@@ -1,8 +1,8 @@
 {
   "AMMods": {
-    "update_code": "4",
+    "update_code": "2",
     "reminder_time": "1",
-    "update_version": "V4",
+    "update_version": "V2",
     "com.instagram.android": "https://anasmalik77.blogspot.com/2023/02/aminsta.html",
     "com.ANInsta.android": "https://anasmalik77.blogspot.com/2023/02/aminsta.html",
     "update_message": "
