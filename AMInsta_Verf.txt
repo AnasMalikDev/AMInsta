@@ -1,0 +1,19 @@
+{
+  "MTMods": {
+    "update_code": "3",
+    "reminder_time": "1",
+    "update_version": "V3",
+    "com.instagram.android": "https://www.mtaltawaf.com/2020/11/mtinstagram.html",
+    "com.ANInsta.android": "https://www.mtaltawaf.com/2020/11/mtinstagram.html",
+    "update_message": "
+<p>Update V8 يتوفر تحديث جديد V8</p>
+<li> يجب عليك التحديث لكي يعمل معك التطبيق بشكل جيد <li>
+
+<li>Base Update: 325.0.0.35.91</li>
+<li>Fixed Crash problem when opening group chats</li>
+<li>Fixed Location of the Send button</li>
+<li>Fixed Problem when downloading videos shows that they are not supported</li>
+<li>Other fixes</li>
+"
+    }
+}
