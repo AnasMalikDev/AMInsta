@@ -1,8 +1,8 @@
 {
   "AMMods": {
-    "update_code": "3",
+    "update_code": "6",
     "reminder_time": "1",
-    "update_version": "V13",
+    "update_version": "V6",
     "com.instagram.android": "https://anasmalik77.blogspot.com/2023/02/aminsta.html",
     "com.ANInsta.android": "https://www.smart5hone.com/2019/05/aninstagram.html",
     "update_message": "
