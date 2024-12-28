@@ -1,0 +1,15 @@
+{
+"version": "348.0.0.33.104",
+"title": "يتوفر تحديث جديد !",
+"NewVersion": "V8",
+"downloadLink": "https://t.me/AnasMalikDev",
+"changeLogMessage": "- إصلاح مشكلة انهيار عند تسجيل رقم جديد
+- إصلاح البصمة 
+- مشكلة الخروج من التطبيق عند فتح المحادثات المخفيه
+
+
+قم بالتحديث لكي لا تفقد محادثاتك",
+"negativebtn": "لاحقاً",
+"positivebtn": "تحديث",
+"changelogTitle": ""
+}
