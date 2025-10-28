@@ -1,20 +1,52 @@
-سجل التغيير في الإصدار V18.0
+What's new in version V9 ?
 
-> [تحديث قاعدة] 325.0.0.35.91
-> [حصريا] إضافة سيرفر الثيمات، تم اضافة ما يقارب ٥ الاف ثيم
-> [حصريا] دعم تغيير الايموجي(الايفون ، فيسبوك ، تويتر والمزيد..)
-> [حصريا] دعم تغيير خط البرنامج (تم إضافة ما يقارب 100 خط)
-> [حصريا] يمكنك الان قفل محادثة مخصصة بقفل
-> [حصريا] يمكنك نسخ / ترجمة / مشاركة اي تعليق
-> [حصريا] يمكنك نسخ / ترجمة / مشاركة اي رسالة
-> [تحسين] ميزة القفل بالبصمة والرقم السري
-> [إضافة] خيار لاخفاء صور البروفايل من المحادثات
-> [إضافة] خيار لاخفاء صورة البروفايل داخل اي محادثة
-> [إضافة] خيار لإظهار نافذة تاكيد قبل الاتصال
-> [إضافة] خيار لاخفاء ايقونة الفيديو في المحادثة
-> [إضافة] خيار لاخفاء ايقونة الاتصال في المحادثة
-> [اضافة] خيار لتعطيل الضغط على صورة البروفايل
-> [إصلاح] مشكلة التثبيت في اندرويد 14
-> [إصلاح] مشكلة الانهيار في بعض الاوقات
-> [اصلاح] مشكلة الانهيار في بعض الاجهزه
-> [مزيد] إصلاحات وتحسينات أخرى
+Update Instagram rule to 383.1.0.48.78.
+ Add all new Instagram plugins.
+ Add interaction in comments.
+ Add the download button at the top of Riles for easy loading.
+ Add a interested and uninterested button in comments.
+ Add Turkish.
+ Add pink @ to see who mentioned you next to username.
+ Add a video crop option next to the Settings icon in Hyder.
+ Add options in Activity Registry to delete or erase the registry.
+ Add Instagram story republishing to your story.
+ Add sharing your story on Instagram directly as WhatsApp status.
+ Add open your story in the phone app.
+ Add a preview option in your story.
+ Add Open ANInsta settings by long press on Instagram Hyder icon - Note: Insta ANInsta Settings icon must be disabled.
+ Add Removal Republishing directly to Instagram.
+ Add Reels share directly as WhatsApp status.
+ Add unlock Reels in the phone app.
+ Add Show Text Copy box.
+ Add the option to disable the signal list.
+ Add copy comments without hashtags (Hashtags).
+ Add Removal tab.
+ Add the number of likes in Reels.
+ Add activation of the Do Not Like option on comments.
+ Add the Activation of the Interest button in Reels.
+ Add Stories line synchronization with the app.
+ Add classic home button format.
+ Add filling in the bottom tabs icons.
+ Add Disable Continue button inside Reels.
+ Add rearrange buttons in feed posts.
+âœ”ï¸ Add Activation image-in-picture option (PIP).
+ Add alteration of the layout of Carousel publications.
+ Add image zoom in with prolonged compression.
+ Add downpression to stop in Reels.
+ Add dual click disable to like feed media.
+ Add double click disable to like comments.
+ Add dual click disable to like Reels.
+ Add double click disable to like messages.
+ Add down drag update disable in Reels.
+ Add automatic scrolling activation for Reels.
+ Add Activity Record Removal.
+ Add Remove Settings icon from Hyder on homepage.
+ Add Remove Instagram icon from hyder on homepage.
+Fix the problem of emoji (iOS Emoji) in Stories.
+Fix the font problem.
+Fix all previous errors.
+Fix all translations.
+Fix the contact button in conversations.
+Automatic collapse repair.
+Many repairs and additions.
+More repairs and improvements discover it yourself.
