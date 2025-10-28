@@ -1,52 +1,55 @@
-What's new in version V9 ?
+What's New in Version V9
+🎯 New Updates & Additions
 
-Update Instagram rule to 383.1.0.48.78.
- Add all new Instagram plugins.
- Add interaction in comments.
- Add the download button at the top of Riles for easy loading.
- Add a interested and uninterested button in comments.
- Add Turkish.
- Add pink @ to see who mentioned you next to username.
- Add a video crop option next to the Settings icon in Hyder.
- Add options in Activity Registry to delete or erase the registry.
- Add Instagram story republishing to your story.
- Add sharing your story on Instagram directly as WhatsApp status.
- Add open your story in the phone app.
- Add a preview option in your story.
- Add Open ANInsta settings by long press on Instagram Hyder icon - Note: Insta ANInsta Settings icon must be disabled.
- Add Removal Republishing directly to Instagram.
- Add Reels share directly as WhatsApp status.
- Add unlock Reels in the phone app.
- Add Show Text Copy box.
- Add the option to disable the signal list.
- Add copy comments without hashtags (Hashtags).
- Add Removal tab.
- Add the number of likes in Reels.
- Add activation of the Do Not Like option on comments.
- Add the Activation of the Interest button in Reels.
- Add Stories line synchronization with the app.
- Add classic home button format.
- Add filling in the bottom tabs icons.
- Add Disable Continue button inside Reels.
- Add rearrange buttons in feed posts.
-âœ”ï¸ Add Activation image-in-picture option (PIP).
- Add alteration of the layout of Carousel publications.
- Add image zoom in with prolonged compression.
- Add downpression to stop in Reels.
- Add dual click disable to like feed media.
- Add double click disable to like comments.
- Add dual click disable to like Reels.
- Add double click disable to like messages.
- Add down drag update disable in Reels.
- Add automatic scrolling activation for Reels.
- Add Activity Record Removal.
- Add Remove Settings icon from Hyder on homepage.
- Add Remove Instagram icon from hyder on homepage.
-Fix the problem of emoji (iOS Emoji) in Stories.
-Fix the font problem.
-Fix all previous errors.
-Fix all translations.
-Fix the contact button in conversations.
-Automatic collapse repair.
-Many repairs and additions.
-More repairs and improvements discover it yourself.
+✅ Updated Instagram base to version 383.1.0.48.78
+✅ Added all new Instagram plugins
+✅ Added interaction in comments
+✅ Added a Download button at the top of Reels for easier access
+✅ Added Interested / Not Interested buttons in comments
+✅ Added Turkish language
+✅ Added Pink @ mention to see who mentioned you next to the username
+✅ Added a Video Crop option next to the Settings icon in Hyder
+✅ Added options in the Activity Log to delete or clear records
+✅ Added Story reposting to your own story
+✅ Added Share your story directly as WhatsApp Status
+✅ Added Open your story in the phone app
+✅ Added Story Preview option
+✅ Added Open AMInsta Settings by long-pressing the Instagram Hyder icon
+
+Note: The AMInsta Settings icon must be disabled for this feature to work.
+✅ Added Direct Republishing to Instagram
+✅ Added Share Reels directly as WhatsApp Status
+✅ Added Unlock Reels in the phone app
+✅ Added Show Text Copy Box
+✅ Added option to Disable Signal List
+✅ Added Copy Comments without Hashtags
+✅ Added Removal Tab
+✅ Added Show Like Count in Reels
+✅ Added Do Not Like option for comments
+✅ Added Interest Button Activation in Reels
+✅ Added Story Line Synchronization with the app
+✅ Added Classic Home Button layout
+✅ Added Filled bottom tab icons
+✅ Added option to Disable Continue button inside Reels
+✅ Added Rearrange Buttons in feed posts
+✅ Added Picture-in-Picture (PIP) mode activation
+✅ Added Carousel Layout Modification
+✅ Added Image Zoom with long press
+✅ Added Down Press to Stop in Reels
+✅ Added Disable Double Tap to Like for posts, comments, messages, and Reels
+✅ Added Disable Down Swipe Refresh in Reels
+✅ Added Auto Scroll Activation for Reels
+✅ Added Activity Record Removal
+✅ Added Remove Settings Icon from Hyder on the homepage
+✅ Added Remove Instagram Icon from Hyder on the homepage
+
+🧰 Fixes & Improvements
+
+🛠️ Fixed iOS Emoji issue in Stories
+🛠️ Fixed Font display problem
+🛠️ Fixed All previous errors
+🛠️ Fixed All translations
+🛠️ Fixed Contact Button in conversations
+🛠️ Fixed Auto Collapse issues
+🛠️ Many repairs and feature additions
+🛠️ More improvements and optimizations — explore them yourself!
