@@ -1,55 +1,6 @@
-What's New in Version V9
+What's New in Version V10
 🎯 New Updates & Additions
 
-✅ Updated Instagram base to version 383.1.0.48.78
+✅ Fix the issue of automatic exit from the application 
 ✅ Added all new Instagram plugins
-✅ Added interaction in comments
-✅ Added a Download button at the top of Reels for easier access
-✅ Added Interested / Not Interested buttons in comments
-✅ Added Turkish language
-✅ Added Pink @ mention to see who mentioned you next to the username
-✅ Added a Video Crop option next to the Settings icon in Hyder
-✅ Added options in the Activity Log to delete or clear records
-✅ Added Story reposting to your own story
-✅ Added Share your story directly as WhatsApp Status
-✅ Added Open your story in the phone app
-✅ Added Story Preview option
-✅ Added Open AMInsta Settings by long-pressing the Instagram Hyder icon
 
-Note: The AMInsta Settings icon must be disabled for this feature to work.
-✅ Added Direct Republishing to Instagram
-✅ Added Share Reels directly as WhatsApp Status
-✅ Added Unlock Reels in the phone app
-✅ Added Show Text Copy Box
-✅ Added option to Disable Signal List
-✅ Added Copy Comments without Hashtags
-✅ Added Removal Tab
-✅ Added Show Like Count in Reels
-✅ Added Do Not Like option for comments
-✅ Added Interest Button Activation in Reels
-✅ Added Story Line Synchronization with the app
-✅ Added Classic Home Button layout
-✅ Added Filled bottom tab icons
-✅ Added option to Disable Continue button inside Reels
-✅ Added Rearrange Buttons in feed posts
-✅ Added Picture-in-Picture (PIP) mode activation
-✅ Added Carousel Layout Modification
-✅ Added Image Zoom with long press
-✅ Added Down Press to Stop in Reels
-✅ Added Disable Double Tap to Like for posts, comments, messages, and Reels
-✅ Added Disable Down Swipe Refresh in Reels
-✅ Added Auto Scroll Activation for Reels
-✅ Added Activity Record Removal
-✅ Added Remove Settings Icon from Hyder on the homepage
-✅ Added Remove Instagram Icon from Hyder on the homepage
-
-🧰 Fixes & Improvements
-
-🛠️ Fixed iOS Emoji issue in Stories
-🛠️ Fixed Font display problem
-🛠️ Fixed All previous errors
-🛠️ Fixed All translations
-🛠️ Fixed Contact Button in conversations
-🛠️ Fixed Auto Collapse issues
-🛠️ Many repairs and feature additions
-🛠️ More improvements and optimizations — explore them yourself!
