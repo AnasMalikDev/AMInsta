@@ -1,6 +1,6 @@
-What's New in Version V10
+What's New in Version V11
 🎯 New Updates & Additions
 
-✅ Fix the issue of automatic exit from the application 
+✅ Fix Calls
 ✅ Added all new Instagram plugins
 
